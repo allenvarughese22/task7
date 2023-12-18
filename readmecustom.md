@@ -1,4 +1,4 @@
-escription
+description
 
 
 The details function is a TypeScript function
